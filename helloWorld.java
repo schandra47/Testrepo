@@ -13,7 +13,6 @@ class helloWorld
 
 		System.out.println("This is a simple print statement");
 
-		//this is just  funny line 
 
     
 	}
